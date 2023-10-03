@@ -6,4 +6,4 @@ newList = [num for num in range(firstNum, lastNum + 1) if num % 2 == 0]
 print("\nList of even numbers\n", "\n", newList)
 print("\nList to Dictionary with key as index and value as element\n")
 res_dict = dict(enumerate(newList))
-print(res_dict))
+print(res_dict
